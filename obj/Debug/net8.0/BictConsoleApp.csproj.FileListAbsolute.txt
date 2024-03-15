@@ -1,0 +1,14 @@
+E:\BICT_DOTNET\BictConsoleApp\bin\Debug\net8.0\BictConsoleApp.exe
+E:\BICT_DOTNET\BictConsoleApp\bin\Debug\net8.0\BictConsoleApp.deps.json
+E:\BICT_DOTNET\BictConsoleApp\bin\Debug\net8.0\BictConsoleApp.runtimeconfig.json
+E:\BICT_DOTNET\BictConsoleApp\bin\Debug\net8.0\BictConsoleApp.dll
+E:\BICT_DOTNET\BictConsoleApp\bin\Debug\net8.0\BictConsoleApp.pdb
+E:\BICT_DOTNET\BictConsoleApp\obj\Debug\net8.0\BictConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\BICT_DOTNET\BictConsoleApp\obj\Debug\net8.0\BictConsoleApp.AssemblyInfoInputs.cache
+E:\BICT_DOTNET\BictConsoleApp\obj\Debug\net8.0\BictConsoleApp.AssemblyInfo.cs
+E:\BICT_DOTNET\BictConsoleApp\obj\Debug\net8.0\BictConsoleApp.csproj.CoreCompileInputs.cache
+E:\BICT_DOTNET\BictConsoleApp\obj\Debug\net8.0\BictConsoleApp.dll
+E:\BICT_DOTNET\BictConsoleApp\obj\Debug\net8.0\refint\BictConsoleApp.dll
+E:\BICT_DOTNET\BictConsoleApp\obj\Debug\net8.0\BictConsoleApp.pdb
+E:\BICT_DOTNET\BictConsoleApp\obj\Debug\net8.0\BictConsoleApp.genruntimeconfig.cache
+E:\BICT_DOTNET\BictConsoleApp\obj\Debug\net8.0\ref\BictConsoleApp.dll
